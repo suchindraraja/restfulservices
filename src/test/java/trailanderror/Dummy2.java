@@ -6,7 +6,7 @@ public class Dummy2
 	public static void main(String[] args) 
 	{
 		// TODO Auto-generated method stub
-		System.out.println("hello guru");
+		System.out.println("Vanakkam");
 
 	}
 
